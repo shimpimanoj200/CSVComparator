@@ -1,0 +1,8 @@
+Name,ID,Category,Value,Description
+XZY,002,typeb,100,Sample
+BAII,001625,TypeA,533.9761748850723,"Line, with comma"
+ExtraInActual,888,TypeY,77,Actual only
+DiffNumeric,100,TypeD,124.456,Numeric diff test
+DiffNumericClose,101,TypeD,10.0002,Close numeric
+Alpha,10,TypeC,200.0,"She said ""Hello"""
+WhitespaceTest,200,TypeW,300,TrailingSpace

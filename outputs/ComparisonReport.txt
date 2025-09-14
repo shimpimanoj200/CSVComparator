@@ -1,0 +1,5 @@
+Failed Fieldname: Value | Expected Input Value: 533.5761748850723 | Actual Value: 533.9761748850723 | for record having unique key: BAII||001625
+Failed Fieldname: Category | Expected Input Value: TypeB | Actual Value: typeb | for record having unique key: XZY||002
+Failed Fieldname: Value | Expected Input Value: 123.456 | Actual Value: 124.456 | for record having unique key: DiffNumeric||100
+Failed Fieldname: Value | Expected Input Value: 10.0001 | Actual Value: 10.0002 | for record having unique key: DiffNumericClose||101
+Failed Fieldname: Description | Expected Input Value: TrailingSpace  | Actual Value: TrailingSpace | for record having unique key: WhitespaceTest||200

@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run CsvCompareRunner",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/CsvCompareRunner/bin/Debug/net6.0/CsvCompareRunner.dll",
+      "args": [
+        "expected.csv",
+        "actual.csv",
+        "outputs"
+      ],
+      "cwd": "${workspaceFolder}/CsvCompareRunner",
+      "console": "integratedTerminal",
+      "stopAtEntry": false
+    }
+  ]
+}
