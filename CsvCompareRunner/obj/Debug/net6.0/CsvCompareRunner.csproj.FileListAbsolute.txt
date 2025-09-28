@@ -16,3 +16,4 @@ C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case 
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvCompareRunner\obj\Debug\net6.0\CsvCompareRunner.pdb
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvCompareRunner\obj\Debug\net6.0\CsvCompareRunner.genruntimeconfig.cache
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvCompareRunner\obj\Debug\net6.0\ref\CsvCompareRunner.dll
+C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvCompareRunner\obj\Debug\net6.0\CsvCompareRunner.sourcelink.json

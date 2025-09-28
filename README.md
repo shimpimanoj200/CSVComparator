@@ -99,4 +99,3 @@ Contributions welcome. Please open issues and submit PRs. Follow typical .NET co
 Add a license file (e.g., MIT) if you intend to publish this repository.
 =======
 
->>>>>>> 86f8a17c866171c5ca18adb34c9b18e82b361387

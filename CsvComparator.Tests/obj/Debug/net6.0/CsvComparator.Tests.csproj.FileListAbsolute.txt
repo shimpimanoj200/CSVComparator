@@ -10,7 +10,17 @@ C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case 
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\CsvComparator.Tests.runtimeconfig.json
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\CsvComparator.Tests.dll
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\CsvComparator.Tests.pdb
+C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -21,6 +31,9 @@ C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case 
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\NuGet.Frameworks.dll
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -93,6 +106,7 @@ C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case 
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\obj\Debug\net6.0\CsvComparator.Tests.AssemblyInfoInputs.cache
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\obj\Debug\net6.0\CsvComparator.Tests.AssemblyInfo.cs
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\obj\Debug\net6.0\CsvComparator.Tests.csproj.CoreCompileInputs.cache
+C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\obj\Debug\net6.0\CsvComparator.Tests.sourcelink.json
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\obj\Debug\net6.0\CsvCompa.308C8F65.Up2Date
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\obj\Debug\net6.0\CsvComparator.Tests.dll
 C:\Users\manoj.g.shimpi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Case Study\CsvCompareSolutionFull\CsvComparator.Tests\obj\Debug\net6.0\refint\CsvComparator.Tests.dll

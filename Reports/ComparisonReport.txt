@@ -1,0 +1,5 @@
+Failed Field: Value | Expected: 533.5761748850723 | Actual: 533.9761748850723 | Record Key: BAII||001625
+Failed Field: Category | Expected: TypeB | Actual: typeb | Record Key: XZY||002
+Failed Field: Value | Expected: 123.456 | Actual: 124.456 | Record Key: DiffNumeric||100
+Failed Field: Value | Expected: 10.0001 | Actual: 10.0002 | Record Key: DiffNumericClose||101
+Failed Field: Description | Expected: TrailingSpace  | Actual: TrailingSpace | Record Key: WhitespaceTest||200
